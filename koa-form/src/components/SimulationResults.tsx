@@ -15,7 +15,6 @@ interface SimulationResultsProps {
 export const SimulationResults = ({ 
   investment, 
   term, 
-  frequency, 
   onBack, 
   onShare 
 }: SimulationResultsProps) => {
